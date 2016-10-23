@@ -2,3 +2,6 @@ hello world!;
 once more;
 
 this si master branch;
+
+to see a conflict;
+conflict is waiting;
