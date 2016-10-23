@@ -1,7 +1,7 @@
-hello world!
-once more
+hello world!;
+once more;
 
-this si master branch
+this si master branch;
 
-to see a conflict
-conflict is waiting
+to see a conflict;
+conflict is waiting;
